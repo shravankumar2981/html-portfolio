@@ -1,0 +1,7 @@
+Installation Steps:
+1)Install Anaconda Navigator from https://www.anaconda.com/download
+2)After Completion of Installation, download jupyter Notebook in Anaconda Navigator
+3)Create a New file in jupyter Notebook and paste the Source Code
+4)Set the paths of training and testing datasets in the source code
+5)Click on cells and then click on Run all Cells
+6)We get the final output 
